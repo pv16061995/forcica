@@ -1,0 +1,37 @@
+<table id="data-table" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th width="5%">S.No.</th>
+                <th width="12%">A/C No. Debit</th>
+                <th width="10%">Amount(Rs)</th>
+                <th width="14%">Beneficary Name</th>
+                <th width="10%">Benf Bank Name</th>
+                <th width="15%">Benf Add 1</th>
+                <th width="15%">Benf Add 2</th>
+                <th width="10%">Benf A/C No.</th>
+                <th width="8%">Benf IFSC</th>
+                <th width="8%">Purpose1</th>
+                <th width="10%">Remitter Name</th>
+                <th width="10%">Remitter Add</th>
+            </tr>
+        </thead>
+        <tbody><tr>
+                <td>1</td>
+                <td>342453455623234</td>
+                <td>220.18</td>
+                <td>Mahesh Katariya</td>
+                <td>HDFC Bank</td> 
+                <td>589, road line, mundaka</td> 
+                <td></td> 
+                <td>44585658566955</td>     
+                <td>HDE55265D</td> 
+                <td></td>     
+                <td>Forcica</td>
+                <td>Forcica Commodity Solutions OPC Private Limited
+113-115, SS Plaza, Sector-1
+Dwarka,
+New Delhi.
+110075
+</td>    
+            </tr></tbody>
+    </table>

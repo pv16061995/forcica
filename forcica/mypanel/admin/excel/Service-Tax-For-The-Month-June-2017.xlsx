@@ -1,0 +1,16 @@
+<table id="data-table" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th width="5%">S.No.</th>
+                <th width="12%">Date</th>
+                <th width="10%">Fee</th>
+                <th width="15%">Service Tax</th>
+            </tr>
+        </thead>
+        <tbody><tr>
+                    <td>1</td>
+                    <td>09 Jun, 2017</td>     
+                    <td>50000</td> 
+                    <td>7500.00</td> 
+                </tr><tr><td colspan="3" align="right"><b>Total service tax for the month of June 2017 is - </b></td><td>7500</td></tr></tbody>
+    </table>

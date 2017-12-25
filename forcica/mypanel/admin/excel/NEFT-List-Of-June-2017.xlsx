@@ -1,0 +1,58 @@
+<table id="data-table" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th width="5%">S.No.</th>
+                <th width="12%">A/C No. Debit</th>
+                <th width="10%">Amount(Rs)</th>
+                <th width="14%">Beneficary Name</th>
+                <th width="10%">Benf Bank Name</th>
+                <th width="15%">Benf Add 1</th>
+                <th width="15%">Benf Add 2</th>
+                <th width="10%">Benf A/C No.</th>
+                <th width="8%">Benf IFSC</th>
+                <th width="8%">Purpose1</th>
+                <th width="10%">Remitter Name</th>
+                <th width="10%">Remitter Add</th>
+            </tr>
+        </thead>
+        <tbody><tr>
+                <td>1</td>
+                <td>342453455623234</td>
+                <td>7717.50</td>
+                <td>SANTOSH KUMAR SHARMA</td>
+                <td>No bank</td> 
+                <td></td> 
+                <td></td> 
+                <td>Na</td>     
+                <td>789087</td> 
+                <td>Official</td>
+                <td>Forcica</td>
+                <td>Delhi</td>    
+            </tr><tr>
+                <td>2</td>
+                <td>342453455623234</td>
+                <td>4900.00</td>
+                <td>BALDEV SINGH</td>
+                <td>STATE BANK OF INDIA</td> 
+                <td></td> 
+                <td></td> 
+                <td>20209833812</td>     
+                <td>SBIN0014650</td> 
+                <td>Official</td>
+                <td>Forcica</td>
+                <td>Delhi</td>    
+            </tr><tr>
+                <td>3</td>
+                <td>342453455623234</td>
+                <td>51646.00</td>
+                <td>Mahesh Katariya</td>
+                <td>HDFC</td> 
+                <td>80, saraswati garden, dwarka mor</td> 
+                <td></td> 
+                <td>54535343543543</td>     
+                <td>547ER22</td> 
+                <td>Official</td>
+                <td>Forcica</td>
+                <td>Delhi</td>    
+            </tr></tbody>
+    </table>

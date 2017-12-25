@@ -1,0 +1,573 @@
+[fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_color="#ffffff" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="fixed" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" margin_top="-60px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="40px" bottom_margin="40px" alignment="center" /][/fusion_builder_column][fusion_builder_column type="1_6" layout="1_6" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no" element_content=""][/fusion_builder_column][fusion_builder_column type="2_3" layout="2_3" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Basics of Forex
+Trading
+
+Forex & Commodity Trading Acadamy
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_6" layout="1_6" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no" element_content=""][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="60px" bottom_margin="60px" alignment="center" /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="px" bottom_margin="100px" alignment="center" /][fusion_title hide_on_mobile="small-visibility,medium-visibility,large-visibility" size="1" content_align="center" style_type="none"]
+
+What Is Forex?
+
+[/fusion_title][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="px" bottom_margin="100px" alignment="center" /][fusion_text]
+
+If you’ve ever traveled to another country, you usually had to find a currency exchange booth at the airport, and then exchange the money you have in your wallet (if you’re a dude) or purse (if you’re a lady) or man purse (if you’re a metrosexual) into the currency of the country you are visiting.
+
+You go up to the counter and notice a screen displaying different exchange rates for different currencies. You find “Japanese yen” and think to yourself, “WOW! My one dollar is worth 100 yen?! And I have ten dollars! I’m going to be rich!!!” (This excitement is quickly killed when you stop by a shop in the airport afterwards to buy a can of soda and, all of a sudden, half your money is gone.)
+
+When you do this, you’ve essentially participated in the forex market! You’ve exchanged one currency for another. Or in forex trading terms, assuming you’re an American visiting Japan, you’ve sold dollars and bought yen.
+
+Before you fly back home, you stop by the currency exchange booth to exchange the yen that you miraculously have left over (Tokyo is expensive!) and notice the exchange rates have changed. It’s these changes in the exchanges rates that allow you to make money in the foreign exchange market.
+
+The foreign exchange market, which is usually known as “forex” or “FX,” is the largest financial market in the world. Compared to the measly $22.4 billion per day volume of the New York Stock Exchange (NYSE), the foreign exchange market looks absolutely ginormous with its $5.3 TRILLION a day trade volume. Forex rocks our socks!
+
+Let’s take a moment to put this into perspective using monsters…
+
+The largest stock market in the world, the New York Stock Exchange, trades a volume of about $22.4 billion each day.  If we used a monster to represent the NYSE, it would look like this…
+
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+ 
+
+
+
+You hear about the NYSE in the news every day… on CNBC… on Bloomberg…on BBC… heck, you even probably hear about it at your local gym. “The NYSE is up today, blah, blah”. When people talk about the “market”, they usually mean the stock market. So the NYSE sounds big, it’s loud and likes to make a lot of noise.
+
+But if you actually compare it to the foreign exchange market, it would look like this…
+
+
+
+Oooh, the NYSE looks so puny compared to the Forex market! It doesn’t stand a chance!
+
+Check out the graph of the average daily trading volume for the forex market, New York Stock Exchange, Tokyo Stock Exchange, and London Stock Exchange:
+
+The currency market is over 200 times BIGGER! It is HUGE! But hold your horses, there’s a catch!
+
+That huge $5 trillion number covers the entire global foreign exchange market, BUT retail traders (that’s us) trade the spot market and that’s about $1.49 trillion. So you see, the forex market is definitely huge, but not as huge as the media would like you to believe.
+
+Do you feel like you already know what the forex market is all about? We’re just getting started! In the next section we’ll reveal WHAT exactly is traded in the forex market.
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="single solid" hide_on_mobile="small-visibility,medium-visibility,large-visibility" sep_color="#7a7979" alignment="center" /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_size="0" border_color="#afafaf" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" bottom_margin="100px" alignment="center" /][fusion_title hide_on_mobile="small-visibility,medium-visibility,large-visibility" size="1" content_align="center" style_type="none"]
+
+What is Forex: What Is Traded In Forex?
+
+[/fusion_title][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" bottom_margin="100px" alignment="center" /][fusion_text]
+
+
+
+The simple answer is MONEY.
+
+Because you’re not buying anything physical, forex trading can be confusing.
+
+Think of buying a currency as buying a share in a particular country, kinda like buying stocks of a company. The price of the currency is usually a direct reflection of the market’s opinion on the current and future health of its respective economy.
+
+In forex trading, when you buy, say, the Japanese yen, you are basically buying a “share” in the Japanese economy. You are betting that the Japanese economy is doing well, and will even get better as time goes. Once you sell those “shares” back to the market, hopefully, you will end up with a profit.
+
+In general, the exchange rate of a currency versus other currencies is a reflection of the condition of that country’s economy, compared to other countries’ economies.
+
+By the time you graduate from this School of Trading, you’ll be eager to start working with currencies.
+
+Major Currencies
+
+Symbol	Country	Currency	Nickname
+USD	United States	Dollar	Buck
+EUR	Euro zone members	Euro	Fiber
+JPY	Japan	Yen	Yen
+GBP	Great Britain	Pound	Cable
+CHF	Switzerland	Franc	Swissy
+CAD	Canada	Dollar	Loonie
+AUD	Australia	Dollar	Aussie
+NZD	New Zealand	Dollar	Kiwi
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Currency symbols always have three letters, where the first two letters identify the name of the country and the third letter identifies the name of that country’s currency.
+
+Take NZD for instance. NZ stands for New Zealand, while D stands for dollar. Easy enough, right?
+
+The currencies included in the chart above are called the “majors” because they are the most widely traded ones.
+
+We’d also like to let you know that “buck” isn’t the only nickname for USD.
+
+There’s also: greenbacks, bones, benjis, benjamins, cheddar, paper, loot, scrilla, cheese, bread, moolah, dead presidents, and cash money.
+
+So, if you wanted to say, “I have to go to work now.”
+
+Instead, you could say, “Yo, I gotta bounce! Gotta make them benjis son!”
+
+Or if you wanted to say, “I have lots of money. Let’s go to the shopping mall in the evening.”
+
+Instead, why not say, “Yo, I gots mad scrilla! Let’s go rock that mall later.”
+
+Did you also know that in Peru, a nickname for the U.S. dollar is Coco, which is a pet name for Jorge (George in Spanish), a reference to the portrait of George Washington on the $1 note?
+
+
+
+They call me Coco yo!
+
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="single solid" hide_on_mobile="small-visibility,medium-visibility,large-visibility" sep_color="#7a7979" alignment="center" /][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" bottom_margin="100px" alignment="center" /][fusion_title hide_on_mobile="small-visibility,medium-visibility,large-visibility" size="1" content_align="center" style_type="none"]
+
+What is Forex: Buying And Selling In Currency Pairs
+
+[/fusion_title][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" bottom_margin="100px" alignment="center" /][fusion_text]
+
+Forex trading is the simultaneous buying of one currency and selling another. Currencies are traded through a broker or dealer, and are traded in pairs; for example the euro and the U.S. dollar (EUR/USD) or the British pound and the Japanese yen (GBP/JPY).
+
+When you trade in the forex market, you buy or sell in currency pairs.
+
+
+
+Imagine each currency pair constantly in a “tug of war” with each currency on its own side of the rope. Exchange rates fluctuate based on which currency is stronger at the moment.
+
+Major Currency Pairs
+
+The currency pairs listed below are considered the “majors”. These pairs all contain the U.S. dollar (USD) on one side and are the most frequently traded. The majors are the most liquid and widely traded currency pairs in the world.
+
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Currency Pair
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Countries
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+FX Geek Speak
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+EUR/USD
+
+USD/JPY
+
+GBP/USD
+
+USD/CHF
+
+USD/CAD
+
+AUD/USD
+
+AUD/USD
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Euro zone / United States
+
+United States / Japan
+
+United Kingdom / United States
+
+United States/ Switzerland
+
+United States / Canada
+
+Australia / United States
+
+New Zealand / United States
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+“euro dollar”
+
+“dollar yen”
+
+“pound dollar”
+
+“dollar swissy”
+
+“dollar loonie”
+
+“aussie dollar”
+
+“kiwi dollar”
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Major Cross-Currency Pairs or Minor Currency Pairs
+
+Currency pairs that don’t contain the U.S. dollar (USD) are known as cross-currency pairs or simply as the “crosses.” Major crosses are also known as “minors.” The most actively traded crosses are derived from the three major non-USD currencies: EUR, JPY, and GBP.
+
+Euro Crosses
+
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Currency Pair
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Countries
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+FX Geek Speak
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+EUR/CHF
+
+EUR/GBP
+
+EUR/CAD
+
+EUR/AUD
+
+EUR/NZD
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Euro zone / Switzerland
+
+Euro zone / United Kingdom
+
+Euro zone / Canada
+
+Euro zone / Australia
+
+Euro zone / New Zealand
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+“euro swissy”
+
+“euro pound”
+
+“euro loonie”
+
+“euro aussie”
+
+“euro kiwi”
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Yen Crosses
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Currency Pair
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Countries
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+FX Geek Speak
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="rgba(255,255,255,0)" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+EUR/JPY
+
+GBP/JPY
+
+CHF/JPY
+
+CAD/JPY
+
+AUD/JPY
+
+NZD/JPY
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="rgba(255,255,255,0)" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Euro zone / Japan
+
+United Kingdom / Japan
+
+Switzerland / Japan
+
+Canada / Japan
+
+Australia / Japan
+
+New Zealand / Japan
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="rgba(255,255,255,0)" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+“euro yen” or “yuppy”
+
+“pound yen” or “guppy”
+
+“swissy yen”
+
+“loonie yen”
+
+“aussie yen”
+
+“kiwi yen”
+
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Pound Crosses
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+ Pair
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Countries
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+FX Geek Speak
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="rgba(0,0,0,0)" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+GBP/CHF
+
+GBP/AUD
+
+GBP/CAD
+
+GBP/NZD
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="rgba(0,0,0,0)" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+United Kingdom / Switzerland
+
+United Kingdom / Australia
+
+United Kingdom / Canada
+
+United Kingdom / New Zealand
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="rgba(0,0,0,0)" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+“pound swissy”
+
+“pound aussie”
+
+“pound loonie”
+
+“pound kiwi”
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Other Crosses
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+ Pair
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Countries
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+FX Geek Speak
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="rgba(0,0,0,0)" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+AUD/CHF
+
+AUD/CAD
+
+AUD/NZD
+
+CAD/CHF
+
+NZD/CHF
+
+NZD/CAD
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="rgba(0,0,0,0)" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Australia / Switzerland
+
+Australia / Canada
+
+Australia / New Zealand
+
+Canada / Switzerland
+
+New Zealand / Switzerland
+
+New Zealand / Canada
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="rgba(0,0,0,0)" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+“aussieswissy”
+
+“aussieloonie”
+
+“aussie kiwi”
+
+“loonieswissy”
+
+“kiwi swissy”
+
+“kiwi loonie”
+
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+Exotic Currency Pairs
+
+
+
+No, exotic pairs are not exotic belly dancers who happen to be twins. Exotic currency pairs are made up of one major currency paired with the currency of an emerging economy, such as Brazil, Mexico, or Hungary. The chart below contains a few examples of exotic currency pairs. Wanna take a shot at guessing what those other currency symbols stand for?
+
+Depending on your forex broker, you may see the following exotic currency pairs so it’s good to know what they are. Keep in mind that these pairs aren’t as heavily traded as the “majors” or “crosses,” so the transaction costs associated with trading these pairs are usually bigger.
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Currency Pair
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+Countries
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="#000000" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" top_margin="30px" alignment="center" /][fusion_text]
+
+FX Geek Speak
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+USD/HKD
+
+USD/SGD
+
+USD/ZAR
+
+USD/THB
+
+USD/MXN
+
+USD/DKK
+
+USD/SEK
+
+USD/NOK
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+United States / Hong Kong
+
+United States / Singapore
+
+United States / South Africa
+
+United States / Thailand
+
+United States / Mexico
+
+United States / Denmark
+
+United States / Sweden
+
+United States / Norway
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_3" layout="1_3" spacing="no" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+.
+
+.
+
+“dollar rand”
+
+“dollar baht”
+
+“dollar peso”
+
+“dollar krone”
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+It isn’t unusual to see spreads that are two or three times bigger than that of EUR/USD or USD/JPY. So if you want to trade exotics currency pairs, remember to factor this in your decision.
+
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="single solid" hide_on_mobile="small-visibility,medium-visibility,large-visibility" sep_color="#7f7e7e" alignment="center" /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" bottom_margin="100px" alignment="center" /][fusion_title hide_on_mobile="small-visibility,medium-visibility,large-visibility" size="1" content_align="center" style_type="none"]
+
+What is Forex: Market Size And Liquidity
+
+[/fusion_title][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" bottom_margin="100px" alignment="center" /][fusion_text]
+
+
+
+Unlike other financial markets like the New York Stock Exchange, the forex market has neither a physical location nor a central exchange.
+
+The forex market is considered an Over-the-Counter (OTC), or “Interbank” market due to the fact that the entire market is run electronically, within a network of banks, continuously over a 24-hour period.
+
+This means that the spot forex market is spread all over the globe with no central location. They can take place anywhere, even at the top of Mt. Fuji!
+
+The forex OTC market is by far the biggest and most popular financial market in the world, traded globally by a large number of individuals and organizations.
+
+In the OTC market, participants determine who they want to trade with depending on trading conditions, attractiveness of prices, and reputation of the trading counterpart.
+
+The chart below shows the seven most actively traded currencies.
+
+The dollar is the most traded currency, taking up 84.9% of all transactions. The euro’s share is second at 39.1%, while that of the yen is third at 19.0%. As you can see, most of the major currencies are hogging the top spots on this list!
+
+
+
+*Because two currencies are involved in each transaction, the sum of the percentage shares of individual currencies totals 200% instead of 100%
+
+The chart above shows just how often the U.S. dollar is traded in the forex market. It is on one side of a ridiculous 84.9% of all reported transactions!
+
+The Dollar is King in the Forex Market
+
+You’ve probably noticed how often we keep mentioning the U.S. dollar (USD). If the USD is one half of every major currency pair, and the majors comprise 75% of all trades, then it’s a must to pay attention to the U.S. dollar. The USD is king!
+
+In fact, according to the International Monetary Fund (IMF), the U.S. dollar comprises roughly 62% of the world’s official foreign exchange reserves! Because almost every investor, business, and central bank own it, they pay attention to the U.S. dollar.
+
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text]
+
+
+
+There are also other significant reasons why the U.S. dollar plays a central role in the forex market:
+
+TheUnited States economy is the LARGEST economy in the world.
+The U.S. dollar is the reserve currency of the world.
+The United States has the largest and most liquid financial markets in the world.
+The United States has a super stable political system.
+The United States is the world’s sole military superpower.
+The U.S. dollar is the medium of exchange for many cross-border transactions. For example, oil is priced in U.S. dollars. So if Mexico wants to buy oil from Saudi Arabia, it can only be bought with U.S. dollar. If Mexico doesn’t have any dollars, it has to sell its pesos first and buy U.S. dollars.
+Speculation in the Forex Market
+
+One important thing to note about the forex market is that while commercial and financial transactions are part of trading volume, most currency trading is based on speculation.
+
+In other words, most trading volume comes from traders that buy and sell based on intraday price movements.
+
+
+
+The trading volume brought about by speculators is estimated to be more than 90%!
+
+The scale of the forex market means that liquidity – the amount of buying and selling volume happening at any given time – is extremely high.
+
+This makes it very easy for anyone to buy and sell currencies.
+
+From the perspective of an investor, liquidity is very important because it determines how easily price can change over a given time period. A liquid market environment like forex enables huge trading volumes to happen with very little effect on price, or price action.
+
+While the forex market is relatively very liquid, the market depth could change depending on the currency pair and time of day.
+
+In our forex trading sessions part of the school, we’ll tell you how the time of your trades can affect the pair you’re trading.
+
+In the meantime, here are a few tricks on how you can trade currencies in gazillion ways. We even narrowed it down to four!
+
+[/fusion_text][fusion_separator style_type="single solid" hide_on_mobile="small-visibility,medium-visibility,large-visibility" sep_color="#7f7e7e" alignment="center" /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_image="http://www.forcica.com/wp-content/uploads/2017/04/Presentation2.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" bottom_margin="100px" alignment="center" /][fusion_title hide_on_mobile="small-visibility,medium-visibility,large-visibility" size="1" content_align="center" style_type="none"]
+
+What is Forex: Different Ways To Trade Forex
+
+[/fusion_title][fusion_separator style_type="none" hide_on_mobile="small-visibility,medium-visibility,large-visibility" bottom_margin="100px" alignment="center" /][fusion_text]
+
+
+
+Because forex is so awesome, traders came up with a number of different ways to invest or speculate in currencies. Among these, the most popular ones are forex spot, futures, options, and exchange-traded funds (or ETFs).
+
+Spot Market
+
+In the spot market, currencies are traded immediately or “on the spot,” using the current market price. What’s awesome about this market is its simplicity, liquidity, tight spreads, and round-the-clock operations. It’s very easy to participate in this market since accounts can be opened with as little as a $25! (Not that we suggest you do) – you’ll learn why in our Capitalization lesson! Aside from that, most brokers usually provide charts, news, and research for free.
+
+Futures
+
+Futures are contracts to buy or sell a certain asset at a specified price on a future date (That’s why they’re called futures!). Forex futures were created by the Chicago Mercantile Exchange (CME) way back in 1972, when bell bottoms and platform boots were still in style. Since futures contracts are standardized and traded through a centralized exchange, the market is very transparent and well-regulated. This means that price and transaction information are readily available.
+
+Options
+
+An “option” is a financial instrument that gives the buyer the right or the option, but not the obligation, to buy or sell an asset at a specified price on the option’s expiration date. If a trader “sold” an option, then he or she would be obliged to buy or sell an asset at a specific price at the expiration date. Just like futures, options are also traded on an exchange, such as the Chicago Board Options Exchange, the International Securities Exchange, or the Philadelphia Stock Exchange. However, the disadvantage in trading forex options is that market hours are limited for certain options and the liquidity is not nearly as great as the futures or spot market.
+
+Exchange-traded Funds
+
+Exchange-traded funds or ETFs are the youngest members of the forex world. An ETF could contain a set of stocks combined with some currencies, allowing the trader to diversify with different assets. These are created by financial institutions and can be traded like stocks through an exchange. Like forex options, the limitation in trading ETFs is that the market isn’t open 24 hours. Also, since ETFs contain stocks, these are subject to trading commissions and other transaction costs.
+
+[/fusion_text][fusion_separator style_type="single solid" hide_on_mobile="small-visibility,medium-visibility,large-visibility" sep_color="#7f7e7e" alignment="center" /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" background_color="rgba(255,255,255,0.99)" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_style="solid" padding_top="20px" padding_bottom="20px"][fusion_builder_row][/fusion_builder_row][/fusion_builder_container]
